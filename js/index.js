@@ -33,9 +33,10 @@ alert(output);
 
 //Task 2
 
+ //variable name declared
 let first_name ='Ravnoor';
 let last_name = 'Bajaj';
 let email = ['baja0011@algonquinlive.com'];
 
-alert("My name is " + first_name + " "+ last_name + "."+" You can contact me at " + email +".");
+alert("My name is " + first_name + " "+ last_name + "."+" You can contact me at " + email +"."); //concatenation
 
